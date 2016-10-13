@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">远程服务</string>
+    <string name="local_service">点击绑定本地服务</string>
+    <string name="remote_service">点击绑定远程服务</string>
+    <string name="local_file_count">本地服务计算文件数目</string>
+    <string name="remote_file_count">远程服务计算文件数目</string>
+    <string name="start_music_service">启动音乐服务</string>
+</resources>
